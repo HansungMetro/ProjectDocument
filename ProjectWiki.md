@@ -17,9 +17,9 @@
 <summary>전역변수</summary>
 <div markdown="1">
 
-|전역변수|역할|부모 함수|
-|------|---|---|
-|EX|예제|Example|
+|전역변수|역할|부모 함수|선언 파일|
+|------|---|---|---|
+|EX|예제|Example|Example.py|
 
 </div>
 </details>
