@@ -1,7 +1,7 @@
  # 목차
 
  [김지훈](https://github.com/urous3814/urous3814/blob/main/Development_log.md#2022%EB%85%84-2%EC%9B%94)   
- [박선우](https://github.com/urous3814/urous3814/blob/main/Development_log.md#2022%EB%85%84-3%EC%9B%94)
+ [박선우](https://github.com/urous3814/urous3814/blob/main/Development_log.md#2022%EB%85%84-3%EC%9B%94)   
  [심혜진](https://github.com/urous3814/urous3814/blob/main/Development_log.md#2022%EB%85%84-3%EC%9B%94)
   
 ---
@@ -32,3 +32,9 @@
  
 </div>
 </details>
+
+# 김지훈
+
+# 박선우
+
+# 심혜진
