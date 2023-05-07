@@ -1,7 +1,7 @@
 # 프로젝트 위키
 <details>
 <summary>함수군</summary>
-<div markdown="1">
+<div markdown="0">
 
 |함수군|내용|함수구분코드|소스파일명|
 |------|---|---|---|
@@ -15,7 +15,7 @@
 
 <details>
 <summary>전역변수</summary>
-<div markdown="1">
+<div markdown="0">
 
 |전역변수|역할|부모 함수|선언 파일|
 |------|---|---|---|
