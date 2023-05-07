@@ -13,6 +13,7 @@
 </div>
 </details>
 
+<details>
 <summary>전역변수</summary>
 <div markdown="1">
 
