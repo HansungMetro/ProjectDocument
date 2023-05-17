@@ -36,7 +36,7 @@
   
 ---
 
-## 2023.05.17
+## 2023.05.17 김지훈 개발 로그
 
 ### [한성메트로](https://github.com/HansungMetro/ProjectScript)
 
