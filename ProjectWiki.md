@@ -10,6 +10,11 @@
 |GetTrainNumber|추적할 지하철 번호 확인|GTN|GetTrainNumber.py|
 |GetLastTime|지하철 도착시간 확인|GLT|GetLastTime.py|
 |ArrivalAlarm|지하철 도착 알림|AA|ArrivalAlarm.py|
+|-----|---|---|---|
+|TrainTrace|지하철 추적|TT|TrainTrace|
+|MainGui|메인 GUI|MG|MainGui.py|
+|Kakao|카카오톡 api|KA|Kakao.py|
+|news|뉴스 크롤링|NC|news.py|
 
 </div>
 </details>
